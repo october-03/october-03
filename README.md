@@ -1,2 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=FFDEB8&height=190&section=header)
-![header](https://capsule-render.vercel.app/api?type=transparent&color=E0B88A&height=100&section=header&text=october03&fontSize=90&fontColor=E0B88A)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8091E0&height=250&section=header&text=OCTOBER03&fontSize=60&fontColor=4D5A94&fontAlignY=38)
